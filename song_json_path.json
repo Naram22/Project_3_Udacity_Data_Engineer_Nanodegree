@@ -1,0 +1,13 @@
+{
+    "jsonpaths": [
+        "$['artist_id']",
+        "$['artist_latitude']",
+        "$['artist_location']",
+        "$['artist_longitude']",
+        "$['artist_name']",
+        "$['duration']",
+        "$['song_id']",
+        "$['title']",
+        "$['year']"
+    ]
+}
